@@ -1,0 +1,9 @@
+pandas
+openpyxl
+pdfplumber
+torch
+transformers
+accelerate
+peft
+bitsandbytes
+datasets
